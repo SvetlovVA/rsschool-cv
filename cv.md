@@ -28,5 +28,3 @@
 0. Experience: from 2011-05-01 to nowadays. (9 years from a web designer to a backend php developer).
 0. Education: diploma of IT specialist in economics. Сourses: 1C, Consultant+, Linux administration.
 0.  I studied English in online courses. There was a practice with a teacher.
-
-line for commit
