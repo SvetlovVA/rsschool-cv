@@ -29,4 +29,4 @@
 0. Education: diploma of IT specialist in economics. Сourses: 1C, Consultant+, Linux administration.
 0.  I studied English in online courses. There was a practice with a teacher.
 
-edit line for commit
+line for commit
